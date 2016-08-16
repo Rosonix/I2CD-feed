@@ -9,7 +9,6 @@ define Package/i2cd-configs
 	SECTION:=base
 	CATEGORY:=Base system
 	TITLE:=I2CD specific configurations
-	DEPENDS:=+kmod-rt2860v2
 	DEFAULT:=y
 endef
 
